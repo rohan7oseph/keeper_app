@@ -1,7 +1,7 @@
 {
   "name": "using-pre-built-react-components-completed",
   "private": true,
-  "homepage": "http://rohan7oseph.github.io/keeper_app",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
